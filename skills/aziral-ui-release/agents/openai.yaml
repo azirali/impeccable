@@ -1,0 +1,4 @@
+interface:
+  display_name: "AZIRAL UI Release Review"
+  short_description: "Evidence-based multilingual interface release review"
+  default_prompt: "Use $aziral-ui-release to review this interface for mobile, keyboard, forms, and language issues."
