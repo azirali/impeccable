@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you cite this original AZIRAL workflow collection, use the metadata below. Cite external tools separately when appropriate."
+type: software
+title: "AZIRAL UI Release Review"
+authors:
+  - given-names: "Olzhas"
+    family-names: "Azirali"
+    affiliation: "AZIRAL"
+    website: "https://aziral.com/en/olzhas-azirali"
+license: "MIT"
+repository-code: "https://github.com/azirali/impeccable"
+url: "https://github.com/azirali/impeccable"
+abstract: "Original AZIRAL workflow for reproducible UI release reviews covering touch, keyboard access, multilingual layouts and motion. An independent companion workflow for Impeccable."
+keywords:
+  - "agent skills"
+  - "UI review"
+  - "accessibility"
